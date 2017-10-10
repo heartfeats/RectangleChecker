@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/RectangleForm/bin/Debug/netcoreapp1.1/RectangleForm.deps.json
+/Users/Guest/Desktop/RectangleForm/bin/Debug/netcoreapp1.1/RectangleForm.runtimeconfig.json
+/Users/Guest/Desktop/RectangleForm/bin/Debug/netcoreapp1.1/RectangleForm.runtimeconfig.dev.json
+/Users/Guest/Desktop/RectangleForm/bin/Debug/netcoreapp1.1/RectangleForm.dll
+/Users/Guest/Desktop/RectangleForm/bin/Debug/netcoreapp1.1/RectangleForm.pdb
+/Users/Guest/Desktop/RectangleForm/obj/Debug/netcoreapp1.1/RectangleForm.AssemblyInfo.cs
+/Users/Guest/Desktop/RectangleForm/obj/Debug/netcoreapp1.1/RectangleForm.dll
+/Users/Guest/Desktop/RectangleForm/obj/Debug/netcoreapp1.1/RectangleForm.pdb
